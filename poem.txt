@@ -1,5 +1,6 @@
 The rainbow
 Pink
 Orange
-blue 
-red
+Blue 
+Green
+Red
